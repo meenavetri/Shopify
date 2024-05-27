@@ -11,7 +11,7 @@ const Shop = () =>{
     return(
         <div>
             <Hero/>
-           <Item/>
+           {/* <Item/> */}
            <Popular/>
            <Offers/>
             <NewCollections/>
